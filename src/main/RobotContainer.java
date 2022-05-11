@@ -49,23 +49,28 @@ FrontRightForward (23, 0.9);
 FrontLeftForward (23, 0.9);
 BackLeftForward (23, 0.9);
 BackRightForward (23, 0.9);
+sleep (1500);
 
 FrontRightTurnRight (23, 0.9);
 FrontLeftTurnRight(23, 0.9);
 BackLeftTurnRight(23, 0.9);
 BackRightTurnRight (23, 0.9);
+sleep (1500);
 
 FrontRightForward (23, 0.9);
 FrontLeftForward (23, 0.9);
 BackLeftForward (23, 0.9);
 BackRightForward (23, 0.9);
+sleep (1500);
 
 FrontRightTurnRight (23, 0.9);
 FrontLeftTurnRight(23, 0.9);
 BackLeftTurnRight(23, 0.9);
 BackRightTurnRight (23, 0.9);
+sleep (1500);
 
 FrontRightForward (23, 0.9);
 FrontLeftForward (23, 0.9);
 BackLeftForward (23, 0.9);
 BackRightForward (23, 0.9);
+sleep (1500);
